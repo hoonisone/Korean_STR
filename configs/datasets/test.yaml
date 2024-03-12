@@ -1,0 +1,4 @@
+name: test
+_target_: datasets.ppocr_dataset.PPOCRDataset
+data_dir: /home/datasets/sangmu_str_MH_v2
+label_file_path: /home/datasets/sangmu_str_MH_v2/label.txt
